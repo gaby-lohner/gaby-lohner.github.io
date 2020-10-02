@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gaby Lohner's Personal Website"
 title_separator          : "-"
 name                     : &name "Gabrielle (Gaby) Lohner"
-description              : &description "Research Specialist at the Nudge4 Solutions Lab at UVA, applying to economics and public policy PhD programs in Fall 2020"
+description              : &description "Gaby Lohner's Personal Website"
 url                      : https://gaby-lohner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/gaby-lohner.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gaby Lohner"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Specialist at the Nudge4 Solutions Lab at UVA, applying to economics and public policy PhD programs in Fall 2020"
+  location         : "Charlottesville, VA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@GabyLohner"
   vine             :
   weibo            :
   xing             :
